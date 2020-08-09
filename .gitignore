@@ -1,1 +1,6 @@
 /ui5-webjar.iml
+/target/
+/.cache/
+/.idea/
+/node/
+/node_modules/
