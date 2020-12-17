@@ -1,4 +1,4 @@
 # ui5 Webjar
 ui5 Webcomponents Webjar
 
-![CI](https://github.com/moewes/ui5-webjar/workflows/CI/badge.svg)
+![Webjar Build](https://github.com/moewes/ui5-webjar/workflows/Webjar%20Build/badge.svg)
