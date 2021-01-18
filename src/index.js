@@ -8,12 +8,18 @@ import "@ui5/webcomponents/dist/Card";
 import "@ui5/webcomponents/dist/Carousel";
 import "@ui5/webcomponents/dist/CheckBox";
 import "@ui5/webcomponents/dist/ComboBox";
+import "@ui5/webcomponents/dist/DatePicker";
+import "@ui5/webcomponents/dist/DateRangePicker.js";
+import "@ui5/webcomponents/dist/DateTimePicker.js";
+import "@ui5/webcomponents/dist/DurationPicker.js";
 import "@ui5/webcomponents/dist/Icon";
 import "@ui5/webcomponents/dist/Label";
 import "@ui5/webcomponents/dist/Input";
 import "@ui5/webcomponents/dist/Link";
 import "@ui5/webcomponents/dist/Panel";
+import "@ui5/webcomponents/dist/TextArea";
 import "@ui5/webcomponents-fiori/dist/Timeline";
+import "@ui5/webcomponents/dist/TimePicker.js";
 import "@ui5/webcomponents/dist/Title";
 
 import "@ui5/webcomponents-icons/dist/Assets.js";
