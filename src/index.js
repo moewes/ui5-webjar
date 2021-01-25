@@ -21,5 +21,6 @@ import "@ui5/webcomponents/dist/TextArea";
 import "@ui5/webcomponents-fiori/dist/Timeline";
 import "@ui5/webcomponents/dist/TimePicker.js";
 import "@ui5/webcomponents/dist/Title";
+import "@ui5/webcomponents-fiori/dist/Wizard.js";
 
 import "@ui5/webcomponents-icons/dist/Assets.js";
