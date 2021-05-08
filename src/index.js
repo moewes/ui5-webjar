@@ -30,5 +30,14 @@ import "@ui5/webcomponents-fiori/dist/Timeline";
 import "@ui5/webcomponents/dist/TimePicker.js";
 import "@ui5/webcomponents/dist/Title";
 import "@ui5/webcomponents-fiori/dist/Wizard.js";
+import "@ui5/webcomponents-fiori/dist/Page.js";
+import "@ui5/webcomponents-fiori/dist/Wizard.js";
 
-import "@ui5/webcomponents-icons/dist/Assets.js";
+//import "@ui5/webcomponents/dist/Assets-static.js";
+//import "@ui5/webcomponents-icons/dist/Assets.js";
+//import "@ui5/webcomponents-fiori/dist/Assets-static.js";
+
+// "@ui5/webcomponents-icons/dist/action-settings.js";
+// import "@ui5/webcomponents-icons/dist/home.js"
+
+import "./icons.js"

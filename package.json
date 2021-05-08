@@ -5,16 +5,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx parcel build src/index.js -d target/classes/META-INF/resources/webjars/cloud-ui-ui5/0.2.0"
+    "build": "npx parcel build src/index.js -d target/classes/META-INF/resources/webjars/cloud-ui-ui5/0.3.0"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
-    "@ui5/webcomponents": "^1.0.0-rc.11",
-    "@ui5/webcomponents-fiori": "^1.0.0-rc.11",
-    "@ui5/webcomponents-icons": "^1.0.0-rc.11"
+    "@ui5/webcomponents": "^1.0.0-rc.13",
+    "@ui5/webcomponents-fiori": "^1.0.0-rc.13",
+    "@ui5/webcomponents-icons": "^1.0.0-rc.13"
   }
 }
