@@ -14,7 +14,6 @@ import "@ui5/webcomponents/dist/DatePicker";
 import "@ui5/webcomponents/dist/DateRangePicker.js";
 import "@ui5/webcomponents/dist/DateTimePicker.js";
 import "@ui5/webcomponents/dist/Dialog";
-import "@ui5/webcomponents/dist/DurationPicker.js";
 import "@ui5/webcomponents/dist/Icon";
 import "@ui5/webcomponents/dist/Label";
 import "@ui5/webcomponents/dist/MessageStrip";

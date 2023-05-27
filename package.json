@@ -1,20 +1,23 @@
 {
   "name": "ui5-webjar",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx parcel build src/index.js -d target/classes/META-INF/resources/webjars/cloud-ui-ui5/0.3.0"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "vite": "^4.3.2"
   },
   "dependencies": {
-    "@ui5/webcomponents": "^1.9.1",
-    "@ui5/webcomponents-fiori": "^1.9.1",
-    "@ui5/webcomponents-icons": "^1.9.1"
+    "@ui5/webcomponents": "^1.11.0",
+    "@ui5/webcomponents-fiori": "^1.11.0",
+    "@ui5/webcomponents-icons": "^1.11.0"
   }
 }
