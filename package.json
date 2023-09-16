@@ -7,17 +7,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
-    "build": "vite build",
+    "build": "./node_modules/.bin/esbuild src/index.js --bundle --outfile=target/classes/META-INF/resources/webjars/cloud-ui-ui5/0.4.1/out.js",
+    "build2": "vite build",
     "preview": "vite preview"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^4.3.2"
+    "vite": "^4.3.2",
+    "esbuild": "0.19.2"
   },
   "dependencies": {
-    "@ui5/webcomponents": "^1.13.3",
-    "@ui5/webcomponents-fiori": "^1.13.3",
-    "@ui5/webcomponents-icons": "^1.13.3"
+    "@ui5/webcomponents": "^1.17.0",
+    "@ui5/webcomponents-fiori": "^1.17.0",
+    "@ui5/webcomponents-icons": "^1.17.0",
+    "esbuild": "0.19.2"
   }
 }
