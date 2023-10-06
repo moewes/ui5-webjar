@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^4.3.2",
+    "vite": "^4.4.11",
     "esbuild": "0.19.4"
   },
   "dependencies": {
