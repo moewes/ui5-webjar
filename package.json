@@ -18,7 +18,7 @@
     "esbuild": "0.19.4"
   },
   "dependencies": {
-    "@ui5/webcomponents": "^1.17.0",
+    "@ui5/webcomponents": "^1.19.1",
     "@ui5/webcomponents-fiori": "^1.17.2",
     "@ui5/webcomponents-icons": "^1.17.0",
     "esbuild": "0.19.4"
