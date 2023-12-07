@@ -15,12 +15,12 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^4.3.2",
-    "esbuild": "0.19.4"
+    "esbuild": "0.19.8"
   },
   "dependencies": {
     "@ui5/webcomponents": "^1.17.0",
     "@ui5/webcomponents-fiori": "^1.17.2",
     "@ui5/webcomponents-icons": "^1.17.0",
-    "esbuild": "0.19.4"
+    "esbuild": "0.19.8"
   }
 }
