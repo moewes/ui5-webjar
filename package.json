@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/esbuild src/index.js --bundle --outfile=target/classes/META-INF/resources/webjars/cloud-ui-ui5/0.4.1/out.js"
+    "build": "./node_modules/.bin/esbuild src/index.js --bundle --outfile=target/classes/META-INF/resources/webjars/cloudui-client/0.4.4/out.js"
   },
   "author": "",
   "license": "ISC",
