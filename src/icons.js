@@ -1,4 +1,4 @@
-import "@ui5/webcomponents-icons/dist/Assets-static.js";
+//import "@ui5/webcomponents-icons/dist/Assets-static.js";
 import "@ui5/webcomponents-icons/dist/Assets.js";
 import "@ui5/webcomponents-icons/dist/Chart-Tree-Map.js";
 import "@ui5/webcomponents-icons/dist/Netweaver-business-client.js";
