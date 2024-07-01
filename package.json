@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "esbuild": "0.21.3"
+    "esbuild": "0.22.0"
   },
   "dependencies": {
     "@ui5/webcomponents": "^2.0.0-rc.4",
